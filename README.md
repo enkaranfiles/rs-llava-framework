@@ -1,2 +1,1 @@
-# geonetgpt
-Thesis Work
+# Remote Sensing LLaVA
