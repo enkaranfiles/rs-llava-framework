@@ -1,0 +1,4 @@
+python -m llava.serve.cli \
+    --model-base lmsys/vicuna-13b-v1.5 \
+    --model-path /home/eneskaranfil/projects/RS-Data/LLaVA/checkpoints/llava-v1.5-13b-lora-rs-4 \
+    --image-file /home/eneskaranfil/projects/RS-Data/RSIEval/images/P0761_0000.png

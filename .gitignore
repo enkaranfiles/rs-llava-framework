@@ -8,3 +8,7 @@ LLaVA/
 RS-LLaVA-Dataset/
 RSIEval/
 vqa/
+instruction_tuning_dataset-v2.json
+instruction_tuning_dataset.json
+lang_instruction_tuning_dataset.json
+bck-notebooks/
