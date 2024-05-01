@@ -1,0 +1,10 @@
+bck/
+captioning/
+classification/
+grounding/
+json_files/
+lang_inst_tuning/
+LLaVA/
+RS-LLaVA-Dataset/
+RSIEval/
+vqa/
